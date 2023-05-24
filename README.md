@@ -16,11 +16,4 @@
 Relevant Links
 Figma Link- https://www.figma.com/file/GWUrnugwWlzzxjMJewgoR8/Contest?node-id=0%3A1&t=9DWJ1y9QOUIhl2OD-1
 
-<h4>Marking Scheme (100 Marks)</h4>
-Authentication using Local Storage (10 marks)
-<li>UI Creation and Pages (15 marks)</li>
-<li>Signup Functionality (30 marks)</li>
-<li>Logout Functionality (10 marks)</li>
-<li>Access Control (20 marks)</li>
-<li>Error Handling (10 marks)</li>
-<li>Deployment(5 Marks)</li>
+
